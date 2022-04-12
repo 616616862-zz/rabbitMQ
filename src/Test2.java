@@ -6,6 +6,7 @@ public class Test2 {
         System.out.println("第二次修改");
         System.out.println("第三次修改");
         System.out.println("第一次创建hotfix分支");
+        System.out.println("第二次修改hotfix分支");
 
     }
     public static boolean isValid(String s) {
