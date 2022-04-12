@@ -3,6 +3,7 @@ import java.util.*;
 public class Test2 {
     public static void main(String[] args) {
         Queue<Integer> list=new ArrayDeque<>();
+        System.out.println("第二次修改");
 
     }
     public static boolean isValid(String s) {
