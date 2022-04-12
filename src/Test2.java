@@ -5,6 +5,7 @@ public class Test2 {
         Queue<Integer> list=new ArrayDeque<>();
         System.out.println("第二次修改");
         System.out.println("第三次修改");
+        System.out.println("第四次修改");
 
     }
     public static boolean isValid(String s) {
